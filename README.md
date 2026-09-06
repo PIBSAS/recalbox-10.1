@@ -28,7 +28,7 @@ Password: `recalboxroot`
 Type:
 
 ```
-curl -sSL https://raw.githubusercontent.com/PIBSAS/recalbox_10.1/main/bios.sh | bash
+curl -sSL https://raw.githubusercontent.com/PIBSAS/recalbox-10.1/main/bios.sh | bash
 ```
 
 # Tutorial: Retroconsolas
