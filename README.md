@@ -1,4 +1,10 @@
 #                                  <h1 align="center"> Recalbox-10-Bios 2026</h1>
+
+---
+
+# THIS IS THE LAST BIOS SCRIPT I WILL PUBLISH
+
+---
 <p align="center">
 Las Bios Correctas y necesarias para Recalbox-10.1 (todas las versiones), sin archivos innecesarios.
 </p>
