@@ -35,7 +35,7 @@ declare -a consolas=(
     "SAMMY ATOMISWAVE"
     "SEGA NAOMI"
     "SEGA NAOMI 2"
-    "SEGA NAOIMI GD-ROM"
+    "SEGA NAOMI GD-ROM"
     "COMMODORE 64"
     "COMMODORE 64 SCPU64"
     "SEGA DREAMCAST"
